@@ -2,10 +2,13 @@ Mind Elements : Help your mind help you!
 
 ### Mind Elements
 
+Is a collection of tools targetted towards helping you learn new things. If you have internal or extrnal certifications that you need to pass in your company, or a course that you need to learn quickly in order to pass the exams, the tools provided here will help you wih that. This site currently offers two tools, one is the question tool and other one is the quiz tool. 
 
-#### Question App Overview 
+#### Question Tool 
 
-This application would allow you to upload an excel file, sample is provided on this link https://jboss7-undersun.rhcloud.com/question/welcome 
+Demo: https://jboss7-undersun.rhcloud.com/question/welcome 
+
+This application would allow you to upload an excel file, sample is provided on this link 
 
 The excel file is a collection of questions with the corresponding answer, answer selections and explanation.
 
@@ -20,16 +23,22 @@ By default, it has a queue for 8 questions, after the questions have been asked,
 If not, the user will be stuck until the user have memorized all the answer.
 
 
-Demo
-=====
+#### Demo
 
 Try the demo to get a feel of how it worked. The demo is plain version of the application without the use of rest api as it is mostly done in jsp.
 
 https://jboss7-undersun.rhcloud.com/question/welcome
 
+#### Quiz Tool 
 
-How It Should Work using AngularJS
-======
+After undergoing the Question Tool, it is good to test what you hav learned. Upload the same file that you have used on Question Tool on the Quiz Tool. This tool will ask you all the question and check if you have answered everyting perfectly.
+
+https://jboss7-undersun.rhcloud.com/quiz/welcome
+
+
+### Contributing
+
+#### How It Should Work using AngularJS
 
 1. Create a default page i.e. start.html
 2. Create the angular script on start.html 
@@ -139,9 +148,7 @@ The reason that we are showing the wrong answer is to show to the user the corre
 8. This will be same process until all questions are finished. 
 
 
-Development
-
-=============
+#### Development
 
 1. To be able to call the rest api, you should be creating your angular ajax script on this location
 
