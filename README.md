@@ -6,7 +6,8 @@ Is a collection of tools targetted towards helping you learn new things. If you 
 
 #### Question Tool 
 
-Demo: https://jboss7-undersun.rhcloud.com/question/welcome 
+Demo: https://portal-mindelements.rhcloud.com/question-web/ 
+
 
 This application would allow you to upload an excel file, sample is provided on this link 
 
@@ -27,13 +28,13 @@ If not, the user will be stuck until the user have memorized all the answer.
 
 Try the demo to get a feel of how it worked. The demo is plain version of the application without the use of rest api as it is mostly done in jsp.
 
-https://jboss7-undersun.rhcloud.com/question/welcome
+https://portal-mindelements.rhcloud.com/question-web/
 
 #### Quiz Tool 
 
 After undergoing the Question Tool, it is good to test what you hav learned. Upload the same file that you have used on Question Tool on the Quiz Tool. This tool will ask you all the question and check if you have answered everyting perfectly.
 
-https://jboss7-undersun.rhcloud.com/quiz/welcome
+https://portal-mindelements.rhcloud.com/question-web/
 
 
 ### Contributing
