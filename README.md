@@ -6,8 +6,8 @@ Mind Elements App is a collection of tools targetted towards helping users or st
 
 The Mind Elements App  currently offers two tools:
 
-•  Question Tool
-•  Quiz Tool
+* Question Tool
+* Quiz Tool
 
 _____________________________________
 
