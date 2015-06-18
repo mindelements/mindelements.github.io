@@ -2,7 +2,7 @@ Mind Elements : Help your mind help you!
 
 ### Mind Elements
 
-Mind Elements App is a collection of tools targetted towards helping users or students to learn new things. If the user have internal or external certifications that needs to be passed in a company, or a course that needs to be learned quickly in order to pass the exams, the tools provided here will help accomplish that. 
+Mind Elements App is a collection of tools targeted towards helping users or students to learn new things. If the user have internal or external certifications that needs to be passed in a company, or a course that needs to be learned quickly in order to pass the exams, the tools provided here will help accomplish that. 
 
 The Mind Elements App  currently offers two tools:
 
@@ -11,10 +11,17 @@ The Mind Elements App  currently offers two tools:
 
 _____________________________________
 
-Contacts: mindelements2015@gmail.com
+support@mindelements.net
 _____________________________________
 
-Github: https://github.com/mindelements/question-application
+http://mindelements.net/
+_____________________________________
+
+Download this app on android:
+
+http://app.appsgeyser.com/MindElements       
+http://www.appsgeyser.com/1870618   
+
 _____________________________________
 
 
