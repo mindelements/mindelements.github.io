@@ -27,7 +27,7 @@ _____________________________________
 
 #### Question Tool 
 
-Demo: https://portal-mindelements.rhcloud.com/question-web/ 
+Demo: https://qa1-mindelements.rhcloud.com/question-web/ 
 
 
 This application would allow you to upload an excel file, sample is provided on this link 
